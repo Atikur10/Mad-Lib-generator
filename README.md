@@ -10,6 +10,6 @@ pip install tkinter
 
 ## Images
 
-![tkinter][Images\tkin.jpg]
+![tkinter](Images\tkin.jpg)
 
-![result][Images\result.jpg]
+![result](Images\result.jpg)
