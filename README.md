@@ -10,6 +10,6 @@ pip install tkinter
 
 ## Images
 
-![tkinter](Images\tkin.jpg)
+![tkinter](https://github.com/Atikur10/Mad-Lib-generator/blob/master/Images/tkin.jpg)
 
 ![result](Images\result.jpg)
